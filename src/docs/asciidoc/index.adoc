@@ -1,0 +1,138 @@
+= Bring back the joy in web development with HTMX and Hypermedia
+// :revealjs_theme: white
+:revealjs_customtheme: css/shades-of-grey.css
+:revealjs_controls: true
+:revealjs_progress: false
+:revealjs_slideNumber: false
+:revealjs_history: true
+:revealjs_center: true
+:revealjs_transition: fade
+:revealjs_controls: true
+:source-highlighter: highlight.js
+:highlightjs-theme: highlight/styles/intellij-light.css
+:revealjs_totalTime: 3000
+:highlightjsdir: highlight
+:icons: font
+:imagesdir: images/
+:customcss: css/custom.css
+:docinfo: private
+
+:conf-name: #mddevdays
+:conf-url: https://www.md-devdays.de
+:conf-alt: MD Dev Days
+:conf-logo: images/md-dev-days.png
+:host-logo-style: background-color: transparent; border-color: transparent !important;
+:talk-tag: #htmx #hypermedia
+:mastodon-handle: @atomfrede@mastodon.social
+include::_shared/_title_footer.adoc[]
+
+
+[.columns]
+== About Me
+
+[.column.is-two-thirds]
+* 👨‍👩‍👧‍👦 🏊‍♂️ 🚴 🏃
+* Software Architect @adesso SE
+* JUG Paderborn Co-Organizer
+* JHipster Board Member
+
+[.column]
+image:duke-pb.png[width=200]
+image:jhipster.png[width=200]
+
+[.notes]
+--
+* wonderful family
+* letztes mal war es der erste Triathlon, dieses mal das 3. Tradition
+--
+
+== Paderborn
+
+* Promis
+* kulinarisch
+
+[.notes]
+--
+* Kommt mal in PB vorbei, tolle stadt, tolle jug und wenn es nicht reicht, Promis, ganz viele Promis
+* Ostwestfalen != Ostfalen, darf man den hier bringen oder zu weit weg?
+--
+
+[.transparent-slide]
+[%notitle]
+=== Promis
+
+image::linnemann.jpg[background, size=cover]
+
+[.text-center]
+--
+[%step]
+😔
+--
+
+[.notes]
+--
+* okay, aber kulinarisch sind wir eine Hochburg 
+--
+
+[.transparent-slide]
+[%notitle]
+=== Kulinarisch
+
+image::paderborner-pils.jpg[background, size=cover]
+
+[.text-center]
+--
+[%step]
+😔
+--
+
+=== Paderborn
+
+...😔
+
+[.notes]
+--
+* okay, lassen wir das mit Paderborn
+--
+
+== Agenda
+
+1. Intro
+2. Hypermedia TL;DR
+3. Patterns and Samples
+
+== Hypermedia TL;DR;
+
+== Hypermedia driven applications
+
+[quote]
+____
+A web application that uses *hypermedia* and *hypermedia exchanges* as its primary mechanism for communicating with a server.
+____
+
+== For this workhops
+
+* A hypermedia exchange is HTML (not JSON)
+
+== Patterns and Samples
+
+=== Setup
+
+* The whole source is on codeberg https://codeberg.org/atomfrede/hypermedia-workshop-md-dev-days
+* `git clone ssh://git@codeberg.org/atomfrede/hypermedia-workshop-md-dev-days.git`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
